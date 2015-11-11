@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A03_Maze", "A03_Maze\A03_Maze\A03_Maze.csproj", "{F540F432-83FF-4465-B3AD-207F393694AA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "A03_MazeContent", "A03_Maze\A03_MazeContent\A03_MazeContent.contentproj", "{29DBAA14-5E3C-478E-A069-34C37A46E379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F540F432-83FF-4465-B3AD-207F393694AA}.Debug|x86.ActiveCfg = Debug|x86
+		{F540F432-83FF-4465-B3AD-207F393694AA}.Debug|x86.Build.0 = Debug|x86
+		{F540F432-83FF-4465-B3AD-207F393694AA}.Release|x86.ActiveCfg = Release|x86
+		{F540F432-83FF-4465-B3AD-207F393694AA}.Release|x86.Build.0 = Release|x86
+		{29DBAA14-5E3C-478E-A069-34C37A46E379}.Debug|x86.ActiveCfg = Debug|x86
+		{29DBAA14-5E3C-478E-A069-34C37A46E379}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
